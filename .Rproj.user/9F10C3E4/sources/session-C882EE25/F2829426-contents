@@ -1,0 +1,11 @@
+---
+title: "Summer Workshop on Experiments"
+---
+
+This website will host the calendar for presentations for the summer.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
